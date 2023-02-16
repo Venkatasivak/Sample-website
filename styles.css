@@ -1,0 +1,134 @@
+body{
+    color: black;
+    margin: 0;
+    text-align: center; 
+    background-color: rgba(233, 244, 235, 0.811);
+    font-style:italic;
+    font-size: 100%;
+    
+}
+.top-container{
+    color: #ea7f33;
+    margin: 0 auto 25px autos ;
+    background-color: rgba(219, 245, 224, 0.807);
+    padding-top: 100px;
+    font-size: 2rem;
+    font-family:'sacramento', cursive;
+}
+
+.pg{
+    font-size: 1.8rem;
+
+}
+.bottem-container{
+    background-color: rgba(206, 245, 213, 0.905);
+    font-size: 1.5rem;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 100px;
+    right: 200px;
+
+}
+.Dove{
+    position: absolute;
+    top: 150px;
+    width: 9%;
+    right: 200px;
+
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px ;
+}
+
+.bottem-cloud{
+    position: absolute;
+    
+}
+.middle-container{
+    font-size: 1.5rem; 
+}
+.p1{
+    width:40%;
+    margin: auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5 ;
+
+}
+.img{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+
+}
+.websec{
+    width: 20%;
+    float: right;
+    margin-left: 25px;
+}
+.profile{
+    width: 100%;
+    margin: 100px auto 100px auto;
+}
+h2{
+    color: #61b7b7 ;
+}
+h3{
+    color: #62b7b7;
+}
+.btn {
+    background: #34d989;
+    background-image: -webkit-linear-gradient(top, #34d989, #6ab82b);
+    background-image: -moz-linear-gradient(top, #34d989, #6ab82b);
+    background-image: -ms-linear-gradient(top, #34d989, #6ab82b);
+    background-image: -o-linear-gradient(top, #34d989, #6ab82b);
+    background-image: linear-gradient(to bottom, #34d989, #6ab82b);
+    -webkit-border-radius: 29;
+    -moz-border-radius: 29;
+    border-radius: 29px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfc8f;
+    background-image: -webkit-linear-gradient(top, #3cfc8f, #b8d934);
+    background-image: -moz-linear-gradient(top, #3cfc8f, #b8d934);
+    background-image: -ms-linear-gradient(top, #3cfc8f, #b8d934);
+    background-image: -o-linear-gradient(top, #3cfc8f, #b8d934);
+    background-image: linear-gradient(to bottom, #3cfc8f, #b8d934);
+    text-decoration: none;
+  }
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px 0;
+
+}
+a{
+    color: #96e26d;
+    text-decoration: none;
+    font-size: 32px;
+    
+}
+a:hover{
+    color: #e58e23;
+}
+.f1{
+    color:#11999E;
+}
+.f2{
+    color:#11999E
+}
+.f3{
+    color: #EAF6F6 ;
+    font-size: 0.74rem;
+}
